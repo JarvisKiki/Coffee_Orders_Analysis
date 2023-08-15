@@ -20,6 +20,7 @@ For the data analysis phase, I also employed pivot tables to generate insightful
 2. In terms of the roast, The United States prefered Medium, Ireland prefered Dark and The United Kingdom showed equal preference to Dark and Medium.
 3. Four out of the top five customers do not have a loyalty card. I would recomend reaching out to these costomers and explain the possible benifits that can come with signing up.
 
+![Coffee_Sales_Dashboard](https://github.com/JarvisKiki/Coffee_Orders_Analysis/assets/139581022/915f6b02-1620-4dac-98ea-3b455700f1c6)
 To provide a visual representation of the findings, I employed Excel's charting capabilities. I created bar charts to compare sales across different coffee types, line charts to track sales trends over time, and pie charts to illustrate the distribution of sales among different countries that were combined into a fully dynamic dashboard.
  
 **Recommendations**
