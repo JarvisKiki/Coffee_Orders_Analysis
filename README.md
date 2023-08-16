@@ -16,7 +16,7 @@ My analysis began with data preprocessing, where I cleaned and organized the raw
 
 **Analysis**
 For the data analysis phase, I also employed pivot tables to generate insightful summaries of sales trends, helping to identify which coffee types and countries were driving the highest revenues.
-1. The Excelsa was the best selling coffee type.
+1. Excelsa was the best selling coffee type.
 2. In terms of the roast, The United States prefered Medium, Ireland prefered Dark and The United Kingdom showed equal preference to Dark and Medium.
 3. Four out of the top five customers do not have a loyalty card. I would recomend reaching out to these costomers and explain the possible benifits that can come with signing up.
 
